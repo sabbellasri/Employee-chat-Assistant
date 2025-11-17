@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Assistant Chatbot with Retrieval Augmented Generation
 
 This Streamlit app functions as an Employee Assistant Bot, designed to quickly retrieve and provide information from an Employee Handbook using natural language processing. It integrates LangChain for document retrieval and OpenAI's GPT models for processing and generating responses.
@@ -134,6 +135,7 @@ st.set_page_config(layout="wide")
 ```
 
 Beyond this stage, the customization of the user interface in Streamlit can vary depending on specific requirements and objectives. Streamlit offers flexible options for tailoring the UI, allowing developers to adjust layouts, add interactive components, and incorporate aesthetic elements that enhance user engagement and functionality specific to the application's purpose. This adaptability makes Streamlit an ideal choice for developers looking to create personalized and dynamic interfaces for their projects.
+
 
 
 
